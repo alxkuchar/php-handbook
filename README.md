@@ -18,14 +18,14 @@
 
 In programming, comments are commonly used to document your code. Comments will be ignored by php, and will thus not be ran.
 
-###### Inline-comment
+#### Inline-comment
 Inline comments are commonly used for a short comment that won't take up too much space.
 
 ```php
 // This is a inline-comment.
 ```
 
-###### Multiline comment
+#### Multiline comment
 Multiline comments are used for more complex documentations.
 ```php
 /*
