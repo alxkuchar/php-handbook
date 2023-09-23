@@ -296,9 +296,9 @@ if statements are used in many programming languages, they are used for operatio
 ```php
 $age = $_POST["age"]; // Initialize a variable and set the value using user input.
 
-if($age >= 16) { // >= are the comparison symbols to check if the user is 15 or above. <= would do the complete opposite, thus: check if the user is below 15 or above.
-    echo "You may download the game."; // the code entered inside of the curly brackets happens if the user is 15+, in this case it echoes a text.
-}else { // the code in this block happens if the user is below the age of 15.
+if($age >= 16) { // >= are the comparison symbols to check if the user is 16 or above. <= would do the complete opposite, thus: check if the user is below 16 or above.
+    echo "You may download the game."; // the code entered inside of the curly brackets happens if the user is 16+, in this case it echoes a text.
+}else { // the code in this block happens if the user is below the age of 16.
     echo "You need to be 16+ to download the game."; // echoes an error message.
 }
 ```
