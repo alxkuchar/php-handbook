@@ -10,7 +10,9 @@
   - [Integers](#integers)
   - [Floats](#floats)
   - [Booleans](#booleans)
-- [Arithmetics](#arithmetics)
+- [Arithmetics](#arithmetic)
+  - [Arithmetic Operations](#arithmetic-operations)
+  - [Increment and Decrement Operators](increment-and-decrement-operators)
 
 ### Comments
 
