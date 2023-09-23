@@ -1,7 +1,4 @@
 ## PHP Handbook 
-by [Alex](https://alxzr.cloud/)
-
---- 
 
 ### Links
 
@@ -13,19 +10,22 @@ by [Alex](https://alxzr.cloud/)
   - [Integers](#integers)
   - [Floats](#floats)
   - [Booleans](#booleans)
+- [Arithmetics](#arithmetic)
+  - [Arithmetic Operations](#arithmetic-operations)
+  - [Increment and Decrement Operators](#increment-and-decrement-operators)
 
 ### Comments
 
 In programming, comments are commonly used to document your code. Comments will be ignored by php, and will thus not be ran.
 
-###### Inline-comment
-Inline comments are commonly used for a short comment that won't take up too much space.
+#### Inline-comment
+Inline comments are frequently used for a short comment that won't take up too much space.
 
 ```php
 // This is a inline-comment.
 ```
 
-###### Multiline comment
+#### Multiline comment
 Multiline comments are used for more complex documentations.
 ```php
 /*
@@ -49,7 +49,7 @@ echo "Your food is: {$food}";
 echo "Your email is: {$email}";
 ```
 
-Strings can also contain numbers, but beware, these numbers are looked at as characters, they cannot be used for calculations or such.
+Strings can also contain numbers, but it's important to note that these numbers are treated at as characters, they cannot be used for calculations or such.
 
 #### Integers
 Integers are data types used for working with whole numbers, such as 21, 22, 23. In code, a variable containing an integer would look like this:
