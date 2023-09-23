@@ -28,6 +28,7 @@
   - [min](#min)
   - [pi](#pi)
   - [rand](#rand)
+- [if statements](#if-statements)
 
 ### Comments
 
