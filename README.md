@@ -10,6 +10,7 @@
   - [Integers](#integers)
   - [Floats](#floats)
   - [Booleans](#booleans)
+- [Arithmetics](#arithmetics)
 
 ### Comments
 
