@@ -1,19 +1,10 @@
 <?php
-    // Arithmetic operators
-    // + - * / ** %
+    /*  Operator Precedence
+        ()
+        **
+        * / %
+        + -
+     */
 
-    $x = 10;
-    $y = 2;
-    $z = null;
-
-    // $z = $x + $y;
-    // $z = $x - $y;
-    // $z = $x * $y;
-    // $z = $x / $y;
-    // $z = $x ** $y;
-    // $z = $x % $y;
-    echo $z;
-
-    // Increment/Decrement operators
-    $counter = 0;
-
+    $total = 1 + 2 - 3 * 4 / 15625;
+    echo $total;
